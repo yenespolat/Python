@@ -1,0 +1,25 @@
+#body {
+    background: #17A2B8;
+    position: relative;
+    margin: auto;
+    padding: 13% 0 0;
+}
+
+#login {
+    width: 23%;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    background-color: #ffffff;
+}
+
+.form-control {
+    border-radius: 0; 
+    border:0; 
+    background-color:#F2F2F2;
+}
+
+#submit-btn {
+    width: 100%;
+    border-radius: 0;
+    background-color: #1785b7;
+    border: 0;
+}
